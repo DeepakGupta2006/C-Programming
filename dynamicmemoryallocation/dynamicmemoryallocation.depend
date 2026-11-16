@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713328441 source:c:\users\deepak\onedrive\documents\first\dynamicmemoryallocation\main.c
+	<stdio.h>
+	<stdlib.h>
+
